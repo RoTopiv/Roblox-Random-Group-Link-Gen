@@ -6,7 +6,6 @@ import string
 from tkinter import S
 import webbrowser
 import random
-import urllib.request
 
 number = str(random.randint(1000, 100000))
 
