@@ -12,6 +12,4 @@ number = str(random.randint(1000, 100000))
 
 str1 = 'https://www.roblox.com/groups/' + number
 
-print(str1)
-
 webbrowser.open_new_tab(str1)
